@@ -112,13 +112,13 @@ img {
   position: relative;
   width: 100%;
   border-bottom: 1px solid var(--dark);
-  background-size: 130%;
+  background-size: 150%;
   background-repeat: no-repeat;
   transition: all 0.2s;
   box-shadow: var(--shadow);
 }
 .box:hover {
-  background-size: 140%;
+  background-size: 160%;
   z-index: 5;
 }
 .box h4 {
